@@ -1,2 +1,3 @@
 # Auraxon
 A website for music lovers........
+I created this website as my first project while learning the frontend development
